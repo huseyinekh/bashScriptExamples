@@ -1,0 +1,1 @@
+this script for to create dotnet mvc project ,Models and install packages example
